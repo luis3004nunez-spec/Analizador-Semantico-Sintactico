@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Proyecto Analizador Semántico y Sintáctico"
+git branch -M main
+git remote add origin https://github.com/luis3004nunez-spec/Analizador-Semantico-Sintactico.git
+git push -u origin main
